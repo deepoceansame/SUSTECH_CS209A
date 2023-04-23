@@ -1,0 +1,9 @@
+3088617041@qq.com
+3088617041@qq.com
+Test sending email using JavaMail
+Dear all:
+
+This is a test of JavaMail usage.
+
+Best,
+Your name
